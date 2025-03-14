@@ -1,9 +1,7 @@
 # Music-Genre-Classification
 Music Genre Classification with CNN-LSTM Hybrid Model
 
-Music Genre Classification with CNN-LSTM Hybrid Model
    
-
 # Music Genre Classification with CNN-LSTM Hybrid Model
 
 Welcome to the Music Genre Classification project! This repository implements a hybrid deep learning model combining Convolutional Neural Networks (CNN) and Long Short-Term Memory (LSTM) networks to classify music genres from audio data. Trained on the GTZAN dataset, this model processes audio spectrograms to predict genres such as Blues, Classical, Rock, and more with high accuracy.

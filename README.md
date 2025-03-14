@@ -26,8 +26,6 @@ The model was trained for **70 epochs** with the following performance:
 - **Validation Accuracy:** Peaks at ~81%
 - **Loss:** Converges effectively, with the best validation loss at **0.10018**
 
-### 📈 Accuracy over epochs for training and validation sets
-(Include accuracy/loss plots here)
 
 ## 📂 Project Structure
 ```
